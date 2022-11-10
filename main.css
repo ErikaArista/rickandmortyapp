@@ -1,0 +1,6 @@
+*{
+    color:black;
+}
+body {
+    background: linear-gradient(90deg, hsla(187, 82%, 65%, 1) 0%, hsla(65, 77%, 63%, 1) 50%, hsla(327, 67%, 74%, 1) 100%);
+}
